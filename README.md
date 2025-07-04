@@ -39,7 +39,7 @@ health_wellness_agent/
 
 1. Install required dependencies:
 ```bash
-pip install agents pydantic python-dotenv openai
+pip install openai-agents pydantic python-dotenv
 ```
 
 2. Set up environment variables:
